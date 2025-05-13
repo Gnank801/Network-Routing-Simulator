@@ -20,7 +20,7 @@
 
 ## Objective
 
-This assignment involves simulating two fundamental routing algorithms:
+This project involves simulating two fundamental routing algorithms:
 - **Distance Vector Routing (DVR)**
 - **Link State Routing (LSR)**
 

@@ -1,5 +1,5 @@
 
-# CS425 Assignment 4 - Routing Protocols
+# Routing Protocols
 
 **Course**: CS425 - Computer Networks 
 **Instructor**: Adithya Vadapalli 

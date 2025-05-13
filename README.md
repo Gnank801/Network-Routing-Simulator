@@ -4,7 +4,6 @@
 **Course**: CS425 - Computer Networks 
 **Instructor**: Adithya Vadapalli 
 **TAs**: Rishit and Yugul 
-**Submission Deadline**: 21.04.2025
 
 ---
 
